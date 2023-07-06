@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "watch": "deno run -A scripts/main.ts",
+    "whileclone": "while true;do;git clone;done"
+  }
+}
